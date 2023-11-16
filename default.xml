@@ -14,6 +14,7 @@
   <remote name="clang" fetch="https://github.com/kraj" />
   <remote name="toradex" fetch="https://git.toradex.com" />
   <remote name="freescale" fetch="https://github.com/Freescale" />
+  <remote name="bmwcarit" fetch="git://github.com/bmwcarit" />
 
   <!-- List all the repositories you want to fetch -->
   <!-- "name": git repository's name on hosting server
@@ -37,7 +38,7 @@
   <project name="meta-python2" revision="refs/heads/dunfell"  remote="oe" path="poky/meta-python2" />
   <project name="meta-arm" revision="refs/heads/dunfell"  remote="yocto" path="poky/meta-arm" />
   <project name="meta-qt5-extra" revision="refs/heads/master"  remote="qt5-extra" path="poky/meta-qt5-extra" />
-  <project name="meta-ros" revision="5f8eaceece856f892602753d79e9f19920c4d077" remote="ros" path="poky/meta-ros" />
+  <project name="meta-ros" revision="5f8eaceece856f892602753d79e9f19920c4d077" remote="bmwcarit" path="poky/meta-ros" />
 
 </manifest>
 
