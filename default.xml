@@ -4,6 +4,7 @@
 
   <!-- You can have as many remote repositories as you like -->
 
+<<<<<<< Updated upstream
   <remote name="yocto" fetch="git://git.yoctoproject.org" />
   <remote name="oe" fetch="git://git.openembedded.org" />
   <remote name="gumstix" fetch="git://github.com/gumstix" />
@@ -14,6 +15,18 @@
   <remote name="ossytems" fetch="git://github.com/OSSystems" />
   <remote name="clang" fetch="git://github.com/kraj" />
   <remote name="ros" fetch="git://github.com/ros" />
+=======
+  <remote name="yocto" fetch="https://git.yoctoproject.org" />
+  <remote name="oe" fetch="https://git.openembedded.org" />
+  <remote name="gumstix" fetch="https://github.com/gumstix" />
+  <remote name="qt5" fetch="https://github.com/meta-qt5" />
+  <remote name="tegra" fetch="https://github.com/madisongh" />
+  <remote name="ossytems" fetch="https://github.com/OSSystems" />
+  <remote name="clang" fetch="https://github.com/kraj" />
+  <remote name="toradex" fetch="https://git.toradex.com" />
+  <remote name="freescale" fetch="https://github.com/Freescale" />
+  
+>>>>>>> Stashed changes
 
   <!-- List all the repositories you want to fetch -->
   <!-- "name": git repository's name on hosting server
