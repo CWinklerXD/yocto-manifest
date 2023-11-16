@@ -14,7 +14,7 @@
   <remote name="clang" fetch="https://github.com/kraj" />
   <remote name="toradex" fetch="https://git.toradex.com" />
   <remote name="freescale" fetch="https://github.com/Freescale" />
-  <remote name="bmwcarit" fetch="git://github.com/bmwcarit" />
+  <remote name="bmwcarit" fetch="https://github.com/bmwcarit" />
 
   <!-- List all the repositories you want to fetch -->
   <!-- "name": git repository's name on hosting server
