@@ -8,7 +8,7 @@
   <remote name="oe" fetch="https://git.openembedded.org" />
   <remote name="gumstix" fetch="https://github.com/gumstix" />
   <remote name="qt5" fetch="https://github.com/meta-qt5" />
-  <remote name="qt5-mirror" fetch="https://code.qt.io/cgit/yocto" />
+  <remote name="qt5-mirror" fetch="https://code.qt.io/yocto" />
   <remote name="qt5-extra" fetch="https://github.com/schnitzeltony" />
   <remote name="tegra" fetch="https://github.com/madisongh" />
   <remote name="ossytems" fetch="https://github.com/OSSystems" />
