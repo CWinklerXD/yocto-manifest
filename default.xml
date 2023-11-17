@@ -26,8 +26,8 @@
   <project name="meta-ti" revision="refs/heads/kirkstone"  remote="yocto" path="poky/meta-ti" />
   <project name="meta-raspberrypi" revision="refs/heads/kirkstone"  remote="yocto" path="poky/meta-raspberrypi" />
   <project name="meta-openembedded" revision="refs/heads/kirkstone"  remote="oe" path="poky/meta-openembedded" />
-  <project name="meta-gumstix" revision="refs/heads/kirkstone"  remote="gumstix" path="poky/meta-gumstix" />
-  <project name="meta-gumstix-extras" revision="refs/heads/kirkstone" remote="gumstix" path="poky/meta-gumstix-extras" />
+  <project name="meta-gumstix" revision="refs/heads/dunfell"  remote="gumstix" path="poky/meta-gumstix" />
+  <project name="meta-gumstix-extras" revision="refs/heads/dunfell" remote="gumstix" path="poky/meta-gumstix-extras" />
   <!-- Official meta-qt5 repository is on qt5.14, lxqt requires qt5.15. This can be reverted once metq-qt5/metq-qt5 catches up to qt5.15 -->
   <!-- <project name="meta-qt5" revision="refs/heads/kirkstone"  remote="qt5" path="poky/meta-qt5" /> -->
   <project name="meta-qt5.git" revision="refs/heads/kirkstone"  remote="qt5" path="poky/meta-qt5" />
