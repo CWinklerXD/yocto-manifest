@@ -6,7 +6,7 @@
 
   <remote name="yocto" fetch="https://git.yoctoproject.org" />
   <remote name="oe" fetch="https://git.openembedded.org" />
-  <remote name="gumstix" fetch="https://github.com/gumstix" />
+  <remote name="gumstix" fetch="https://github.com/davidkleymann" />
   <remote name="qt5" fetch="https://github.com/meta-qt5" />
   <remote name="qt5-mirror" fetch="https://code.qt.io/yocto" />
   <remote name="tegra" fetch="https://github.com/madisongh" />
